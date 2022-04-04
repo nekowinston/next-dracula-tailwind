@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@dracula/dracula-ui": "^0.8.1",
     "next": "12.1.4",
     "react": "^17",
     "react-dom": "^17"
